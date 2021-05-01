@@ -1,5 +1,4 @@
 #write a python program to find average of two numbers 
-
 a = input("Enter first number: ")
 b = input("Enter second number: ")
 a = int(a)
